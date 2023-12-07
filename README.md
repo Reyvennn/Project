@@ -10,7 +10,7 @@ Welcome to my personal repository! This space serves as a public record of my jo
 5. [Contact](#contact)
 
 # <a name="about-me"></a>About Me
-Hello, Salut! My name is Alfandy Setiawan and i'm currently 5th Semester of Computer Science major in Bina Nusantara University. I'm focusing on Web Developer and Mobile Application studies and trying to reach a new skill limit for my future career.
+Hello, Salut! My name is Alfandy Setiawan and i'm currently 5th Semester of Computer Science major in Bina Nusantara University. I'm focusing on Web Developer and Mobile Application studies and trying to reach and break new skill limits for my future career.
 
 # <a name="projects"></a> Projects   
 Explore the projects I've worked on, each representing a milestone in my learning journey. These projects are open-source and publicly available for you to use and learn from. I encourage collaboration and feedback, so feel free to contribute or provide suggestions.
