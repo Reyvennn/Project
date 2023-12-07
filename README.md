@@ -17,7 +17,7 @@ Explore the projects I've worked on, each representing a milestone in my learnin
 
 For updated progress, please visit the text below by clicking it:
 
-[Code Project]([https://github.com/Reyvennn/Code-Project](https://github.com/Reyvennn/Code-Project/releases/tag/Project))
+[Code Project](https://github.com/Reyvennn/Code-Project](https://github.com/Reyvennn/Code-Project/releases/tag/Project)
 
 
 
