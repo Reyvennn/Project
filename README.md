@@ -17,9 +17,9 @@ Explore the projects I've worked on, each representing a milestone in my learnin
 
 For updated progress, please visit the text below by clicking it:
 
-[Code Project](https://github.com/Reyvennn/Code-Project)
+[Code Project]([https://github.com/Reyvennn/Code-Project](https://github.com/Reyvennn/Code-Project/releases/tag/Project))
 
-[Non-Code Project / Fun Project](https://github.com/Reyvennn/Code-Project)
+
 
 # <a name="learning-logs"></a> Learning Logs
 I believe in the power of documentation for personal growth. In the learning_logs directory, you'll find detailed accounts of my learning experiences, challenges faced, and insights gained. Feel free to explore and share your thoughts.
